@@ -1,2 +1,6 @@
 "Hello Kamal"
+<<<<<<< HEAD
 "Hello world"
+=======
+"Hello to check connflict"
+>>>>>>> feature2
