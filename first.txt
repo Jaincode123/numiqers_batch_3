@@ -1,4 +1,4 @@
 Hi
 I am Aayushi Jain
-C++ is a programming language
-I am doing git assignment
+Java is used for backend.
+Java is preferable over C++
