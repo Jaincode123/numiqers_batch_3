@@ -1,4 +1,4 @@
 Hi
 I am Aayushi Jain
-C++ is a programming language
-I am doing git assignment
+HTML is used for frontend
+I have completed HTML assignment.
